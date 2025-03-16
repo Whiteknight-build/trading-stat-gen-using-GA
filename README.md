@@ -2,12 +2,12 @@
 building a genetic algorithm with the ability to create functional strategies
 
 # Fundamentals
-Initialization: Generate a diverse population of random trading strategies
-Evaluation: Backtest each strategy and assign fitness scores based on performance metrics
-Selection: Choose the best-performing strategies to become parents for the next generation
-Crossover: Combine parameters from parent strategies to create offspring
-Mutation: Randomly alter some strategy parameters to maintain genetic diversity
-Replacement: Form a new population from offspring and elite parents
+Initialization: Generate a diverse population of random trading strategies.
+Evaluation: Backtest each strategy and assign fitness scores based on performance metrics.
+Selection: Choose the best-performing strategies to become parents for the next generation.
+Crossover: Combine parameters from parent strategies to create offspring.
+Mutation: Randomly alter some strategy parameters to maintain genetic diversity.
+Replacement: Form a new population from offspring and elite parents.
 
 # Genes 
 parameters are encoded as chromosomes containing:
